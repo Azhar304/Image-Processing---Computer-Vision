@@ -1,2 +1,2 @@
 # Image Processing & Computer Vision
- Start of learning image processing and CV
+ Journey of imageprocessing and computer vision
