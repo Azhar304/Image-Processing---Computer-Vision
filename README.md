@@ -1,2 +1,2 @@
 # Image Processing & Computer Vision
- Journey of imageprocessing and computer vision
+ Journey of image processing and computer vision
