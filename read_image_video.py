@@ -18,3 +18,6 @@ while(True):
 
     if cv2.waitKey(1)& 0xff==ord('q'):
         break
+
+capture.release()
+cv2.destroyAllWindows()
