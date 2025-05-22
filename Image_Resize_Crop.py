@@ -3,7 +3,7 @@ import cv2
 
 img=cv2.imread(os.path.join('.', 'Resources/panda.jpg'))
 
-#image resizing
+"""image resizing"""
 # resized_img=cv2.resize(img,(510,255))
 #
 # print(img.shape)
@@ -13,7 +13,7 @@ img=cv2.imread(os.path.join('.', 'Resources/panda.jpg'))
 # cv2.imshow("Resized Image",resized_img)
 # cv2.waitKey(0)
 
-#image Cropping
+"""Image Cropping"""
 
 print(img.shape)
 cropped_img=img[150:450,250:550]
